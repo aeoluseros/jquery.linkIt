@@ -1,4 +1,4 @@
-###LinkIt JQuery Plugin###
+#LinkIt JQuery Plugin#
 
 **LinkedIt** is a simple JQuery plugin to attach links to elements
 
