@@ -8,7 +8,16 @@
 
 
 ##Usage##
-
+        <script>
+            $(document).ready(function(){
+                $('span').linkIt({
+                    //whatever:'anything'
+                    href:'http://google.com',
+                    text:'Click Me',
+                    target:'_blank'
+                });
+            });
+        </script>
 
 ##Vendors##
 JQuery - [http://jquery.com](http://jquery.com)
